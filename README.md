@@ -35,4 +35,4 @@
 |------------------------------------------|------------------------------------------|--------------------------------------|
 | ![Answers-1](https://github.com/user-attachments/assets/34a128d0-90a7-4d54-a2b3-2a7b5416c5ea) | ![Guideline Summaries](https://github.com/user-attachments/assets/162dccbd-0e66-48cc-940b-7153a481472c) | ![New Guideline Cases-4](https://github.com/user-attachments/assets/1fd90746-0e6c-453e-9ebe-62e8cf1dd50c) |
 | ![New Guideline Cases](https://github.com/user-attachments/assets/9916b3aa-b80f-4ae3-806e-f7dd6bab7284) | ![Sign Up-1](https://github.com/user-attachments/assets/37f02337-fccc-4b33-a550-34649aeb7e27) | ![Home](https://github.com/user-attachments/assets/6a659590-1173-4fac-a631-5f4c6aaca053) |
-| ![Random Cases](https://github.com/user-attachments/assets/541d800a-be93-4300-b97a-49bec50c3e8f) | | |
+| ![Random Cases](https://github.com/user-attachments/assets/541d800a-be93-4300-b97a-49bec50c3e8f) | ![Empty Cell](#) | ![Empty Cell](#) |
