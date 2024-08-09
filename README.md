@@ -29,8 +29,3 @@
   - Download summary guidelines for offline use.
   - Visualize quiz results through graphical representations.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/master-em.git
